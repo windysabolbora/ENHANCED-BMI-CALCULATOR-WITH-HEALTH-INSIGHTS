@@ -5,7 +5,6 @@ been achieved:
 
 <h2>Performance and Efficiency:</h2>
 Python: is indeed quicker to run from a development perspective because it skips the explicit compilation phase.
-
 C++: is slower to compile but once compiled, it executes much faster than Python due to its compiled nature and lower-level access to the hardware.
 
 <h2>Input & Calculation Handling:</h2>
@@ -21,15 +20,11 @@ easily understand how the system works. It also provides custom input prompts, a
 
 <h2>Strengths and Weaknesses:</h2>
 C++:
-
 Strengths: High performance, efficient memory usage, fine-grained control over data types.
-
 Weaknesses: Can be more complex to write and debug, and requires explicit memory management.
 
 Python:
-
 Strengths: Easier to learn and use, rapid development, extensive libraries.
-
 Weaknesses: Can be slower than C++, and might require additional type checks.
 
 Overall, for Enhanced BMI Calculator with Health Insights, Python is typically the more efficient choice due to its simplicity,
