@@ -1,4 +1,5 @@
-<h1>The Enhanced_BMI_Calculator_With_Health_Insights program was implemented using the two programming languages (compiled and interpreted). This tests the differences in each programming language's ability to perform similar programs.</h1>
+<h1>Enhanced_BMI_Calculator_With_Health_Insights</h1>\
+This program was implemented using the two programming languages (compiled and interpreted). This tests the differences in each programming language's ability to perform similar programs.
 
 In conclusion, after evaluating the C++ and Python for an Enhanced BMI Calculator with Health Insights, several factors have
 been achieved:
