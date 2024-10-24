@@ -1,6 +1,8 @@
 <h1>Enhanced_BMI_Calculator_With_Health_Insights</h1>
 This program was implemented using the two programming languages (compiled and interpreted). This tests the differences in each programming language's ability to perform similar programs.
 
+
+
 This Python program is an enhanced BMI calculator that not only computes a user's Body Mass Index (BMI) but also provides personalized health insights, dietary meal plans, and exercise recommendations based on BMI classification, age, gender, and activity level. Here's an overview of the code:
 
 ### Features:
